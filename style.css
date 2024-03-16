@@ -3,6 +3,7 @@
     height: auto;
     gap: 5px;
     justify-content: center;
+    font-family: Poppins;
 }
 
 .navbar {
@@ -45,7 +46,6 @@
     /* biar flex kepisah atas bawah */
     flex-direction: column; 
     gap: 20px;
-    justify-content: center;
     /* background-color: brown; */
 }
 
@@ -141,6 +141,7 @@
     height: 181px;
     display: flex;
     flex-direction: row;
+    border-radius: 20px;
     background-color: #F2F2F2;
 }
 
